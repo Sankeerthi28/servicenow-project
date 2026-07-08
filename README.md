@@ -13,6 +13,3 @@ Steps:
 - Configured ACLs
 - Created Flow Designer workflow
 - Tested system using both users
-
-GitHub Repository:
-(leave this as current repo link)
